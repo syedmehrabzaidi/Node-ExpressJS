@@ -19,14 +19,15 @@ cd express-hello-world
 
 Install the project dependencies using npm (Node Package Manager):
 
-npm install
+* npm install
 
 # Usage
 To start the Express.js application and see the "Hello, World!" message, run the following command:
 
 
- npm start
-This will start the server, and you can access the "Hello, World!" message in your web browser by navigating to http://localhost:3000.
+* npm start
+This will start the server, and you can access the "Hello, World!"
+message in your web browser by navigating to * http://localhost:3000.
 
 # Customization
 You can customize this program by modifying the code in the app.js file. You can change the message that is displayed, add new routes, or incorporate additional functionality as needed for your project.
